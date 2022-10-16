@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/two-sum/
+
 O(n^2) time
 // Simplest solution with brute force method
 // Main idea here is remb the 2nd loop needs to start from the next element of i
